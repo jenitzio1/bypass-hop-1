@@ -1,7 +1,7 @@
 {
   "compatibility_date": "2025-04-01",
   "main": "src/index.ts",
-  "name": "bypass-hop-1",
+  "name": "hop-3",
   "upload_source_maps": true,
   "d1_databases": [
     {
